@@ -19,8 +19,7 @@ import {
 import { useEffect, useState } from "react";
 import axios from "axios";
 
-import "./Home.css"; // 👈 Importamos estilos personalizados
-
+import "./Home.css";
 /* ---------------------------------------------
    INTERFAZ TYPESCRIPT
 --------------------------------------------- */
