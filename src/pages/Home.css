@@ -1,0 +1,27 @@
+/* TÍTULO VERDE MEDIO OSCURO */
+.titulo-verde {
+  color: #1b5e20; /* Verde oscuro medio */
+  font-weight: bold;
+  font-size: 20px;
+  text-align: center;
+}
+
+/* TARJETAS MÁS ELEGANTES */
+.tarjeta-personaje {
+  border-radius: 15px;
+  box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.15);
+}
+
+/* FILA INTERNA (AVATAR + TEXTO) */
+.fila-personaje {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+}
+
+/* INFORMACIÓN */
+.info-personaje h2 {
+  margin: 0;
+  font-size: 18px;
+  font-weight: bold;
+}
